@@ -1,0 +1,35 @@
+# Arquivos de configuração
+/application.properties
+/application.yml
+application.properties
+
+# Arquivos com variáveis de ambiente
+/.env
+
+# Diretório de logs
+/logs/
+
+# Diretório de build
+/target/
+
+# Arquivos de IDE
+/.idea/
+*.iml
+
+# Arquivos de compilação
+*.class
+
+# Arquivos gerados automaticamente
+/target/
+/bin/
+/build/
+/dist/
+/node_modules/
+
+# Arquivos de dependências
+/lib/
+/libs/
+/*.jar
+
+# Outros
+.DS_Store
