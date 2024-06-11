@@ -17,7 +17,6 @@ application.properties
 *.class
 
 # Arquivos gerados automaticamente
-/target/
 /bin/
 /build/
 /dist/
