@@ -9,9 +9,6 @@ application.properties
 # Diretório de logs
 /logs/
 
-# Diretório de build
-/target/
-
 # Arquivos de IDE
 /.idea/
 *.iml
